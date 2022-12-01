@@ -7,6 +7,5 @@ docker run -dit \
    --env address="xxx.xxx.xxx.xxx:xxxx"
    --env client_id="xxx"
    --env client_secret="xxx"
-   --restart always \
    zjjscwt/jdckupload:latest
 ```
