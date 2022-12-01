@@ -10,5 +10,5 @@ docker run -dit \
    zjjscwt/jdckupload:latest
 ```
 ```
-xxxxx:9001/jd?ck=
+xxx.xxx.xxx.xxx:9001/jd?ck=
 ```
