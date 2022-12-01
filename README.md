@@ -9,3 +9,6 @@ docker run -dit \
    --env client_secret="xxx"
    zjjscwt/jdckupload:latest
 ```
+```
+xxxxx:9001/jd?ck=
+```
